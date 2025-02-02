@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\hassh\Desktop\Projects\Owl3d Graphics\Graphics\main.cpp(80,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hassh\Desktop\Projects\Owl3d Graphics\Graphics\main.cpp(82,28): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hassh\Desktop\Projects\Owl3d Graphics\Graphics\main.cpp(82,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hassh\Desktop\Projects\Owl3d Graphics\Graphics\main.cpp(82,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hassh\Desktop\Projects\Owl3d Graphics\Graphics\main.cpp(140,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Graphics.vcxproj -> C:\Users\hassh\Desktop\Projects\Owl3d Graphics\Debug\Graphics.exe

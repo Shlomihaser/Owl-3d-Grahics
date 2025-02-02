@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\hassh\Desktop\Projects\Graphics\Graphics\main.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hassh\Desktop\Projects\Graphics\Graphics\main.cpp(81,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hassh\Desktop\Projects\Graphics\Graphics\main.cpp(81,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hassh\Desktop\Projects\Graphics\Graphics\main.cpp(225,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hassh\Desktop\Projects\Graphics\Graphics\main.cpp(351,12): warning C4101: 'j': unreferenced local variable
+C:\Users\hassh\Desktop\Projects\Graphics\Graphics\main.cpp(377,23): warning C4018: '<': signed/unsigned mismatch
+  Graphics.vcxproj -> C:\Users\hassh\Desktop\Projects\Graphics\Debug\Graphics.exe
